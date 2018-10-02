@@ -1,0 +1,16 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis projektu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+Rozwiązanie implementuje bibliotekę do wykonywania powyższych operacji.
+Wielomiany przechowywane są jako czynnik stały i lista jednomianów.
+
+*/
